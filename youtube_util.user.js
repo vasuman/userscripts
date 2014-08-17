@@ -4,7 +4,7 @@
 // @description Miscellaneous Youtube functions
 // @include     http://*.youtube.com/*
 // @include     https://*.youtube.com/*
-// @require     https://raw.github.com/vasuman/userscripts/blob/master/util.js
+// @require     https://raw.github.com/vasuman/userscripts/blob/master/utils.js
 // @version     0.0
 // @grant       none
 // ==/UserScript==
