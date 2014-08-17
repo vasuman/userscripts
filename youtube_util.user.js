@@ -35,5 +35,6 @@
         }
     }
 
+    console.log('YoutubeUtil started');
     GM_registerKeyTrigger('Space', togglePlaying);
 })();
